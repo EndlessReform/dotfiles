@@ -1,0 +1,8 @@
+rofi.font: SF Pro Text 30 
+rofi.columns: 4
+rofi.lines: 10
+rofi.padding: 10
+rofi.hide-scrollbar: true
+! State: bg, fg, bgalt, hlbg, hlfg
+rofi.color-normal: #000000, #f8faf2, #000000, #282a36, #ff5555
+rofi.color-window: #000000, #000000, #000000
